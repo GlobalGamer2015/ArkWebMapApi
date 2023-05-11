@@ -1,0 +1,76 @@
+{
+  "servers": {
+    "Aberration": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "CrystalIsles": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Extinction": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Fjordur": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Genesis": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Genesis2": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "LostIsland": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Ragnarok": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "ScorchedEarth": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "TheCenter": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "TheIsland": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    },
+    "Valguero": {
+      "Active": false,
+      "IP": "",
+      "RconPort": 0,
+      "Password": ""
+    }
+  }
+}
