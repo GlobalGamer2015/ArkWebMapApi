@@ -191,7 +191,7 @@ module.exports = function() {
           LostIsland.command('ListAllPlayerPos')
           .then(response => {
             var players = response.body.replace(/^\s*[\r\n]/gm, "");
-            fs.writeFileSync("./data/LostIsland.txt", players, { encoding: 'utf8', flag: 'w' }, function(err) { if (err) { console.log(err) } });
+            fs.writeFileSync("./data/Ragnarok.txt", players, { encoding: 'utf8', flag: 'w' }, function(err) { if (err) { console.log(err) } });
             LostIsland.destroy();
           })
         })
